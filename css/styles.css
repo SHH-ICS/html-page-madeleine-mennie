@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+}
+h1{color: aqua;
+text-align: center;
+}
+p{
+    text-align: right;
+    -moz-text-decoration-color: rgb(34, 199, 108);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+}
